@@ -3,7 +3,7 @@ import React from "react";
 const Home = (props) => {
   return (
     <>
-      <h3>안녕하세요. 메인페이지 입니다.</h3>
+      <h3>안녕하세요.</h3>
     </>
   );
 };
